@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20SeungHyun's%20GitHub!&fontSize=50" width="100%" />
 </div>
 
+---
+
 - **Name** : Ryu SeungHyun
 - **Birth Date** : 2004/09/29
 - **Nation** : Republic of Korea
@@ -23,3 +25,10 @@
 ### Tools
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
+<br>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Non+Desistas+Non+Exieris;Frontend+Developer" alt="Typing SVG" />
+</div>
