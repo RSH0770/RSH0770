@@ -23,16 +23,3 @@
 ### Tools
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-<br>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=RSH0770&show_icons=true&theme=tokyonight)](https://github.com/HyupMin-server)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSH0770&layout=compact&theme=tokyonight)](https://github.com/HyupMin-server)
-
-</div>
