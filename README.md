@@ -25,10 +25,8 @@
 ### Tools
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-<br>
-
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Non+Desistas+Non+Exieris;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Non+Desistas+Non+Exieris" alt="Typing SVG" />
 </div>
